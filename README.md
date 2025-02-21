@@ -81,7 +81,7 @@ The Customer Dashboard provides an overview of customer data, trends, and behavi
 - Integrating with live data sources for real-time insights.
 
 **Tools Used:** Tableau  
-**Dataset:** Sales Dataset (Orders, Customers, Products, Location)
+**Dataset:** [Sales Dataset](https://github.com/soumil-saurya/Sales-Customer-Dashboards---Tableau-Project/raw/refs/heads/main/TableauProject-Dataset.zip) 
 
 
 
