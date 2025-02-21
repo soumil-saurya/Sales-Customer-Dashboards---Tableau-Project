@@ -56,7 +56,7 @@ The Customer Dashboard provides an overview of customer data, trends, and behavi
 - **Top 10 Customers by Profit:** Ranks the top 10 customers generating the highest profits, including order count, current sales and profit, and last order date.
 
 #### **Screenshot:**
-![Customer Dashboard](/mnt/data/Screenshot%20(10).png)
+![Customer Dashboard](https://github.com/soumil-saurya/Sales-Customer-Dashboards---Tableau-Project/blob/main/CUSTOMER%20DASHBOARD.png?raw=true)
 
 ## Design & Interactivity Features
 
