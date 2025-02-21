@@ -40,7 +40,7 @@ The Sales Dashboard provides an overview of sales metrics and trends to analyze 
 - **Weekly Trends for Sales & Profit:** Weekly sales and profit trends for the current year, showing average weekly values and highlighting weeks above and below the average.
 
 #### **Screenshot:**
-![Sales Dashboard](/mnt/data/Screenshot%20(9).png)
+![Sales Dashboard](https://github.com/soumil-saurya/Sales-Customer-Dashboards---Tableau-Project/blob/main/SALES%20DASHBOARD.png?raw=true)
 
 ### 2. Customer Dashboard
 
