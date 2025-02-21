@@ -22,7 +22,7 @@ The dataset is structured with the following table relationships to enable seaml
 - **Orders Table** is linked to **Location Table** via `Region/State`.
 
 #### **Screenshot:**
-![Table Relationships](/mnt/data/Screenshot%20(11).png)
+![image alt](https://github.com/soumil-saurya/Sales-Customer-Dashboards---Tableau-Project/blob/main/Table%20Relationship.png?raw=true)
 
 ## Dashboards Overview
 
